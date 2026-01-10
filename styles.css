@@ -1,0 +1,45 @@
+body {
+    background-color: #E0E1DD;
+    margin: auto;
+}
+
+* {
+    block-size: border-box;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.top {
+    background-color: #1B263B;
+    color: #E0E1DD;
+    text-align: center;
+    padding: 36px;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.author {
+    font-size: 20px;
+}
+
+.recipes {
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+}
+
+.recipe {
+    width: 240px;
+    height: 80px;
+    background-color: #415A77;
+    padding: 8px;
+    margin: 24px auto;
+}
+
+.button {
+    font-size: 18px;
+    padding: 24px;
+    margin: 4px auto;
+    display: block;
+}
