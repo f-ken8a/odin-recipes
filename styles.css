@@ -8,6 +8,11 @@ body {
     font-family: 'Brush Script MT', cursive;
 }
 
+.header {
+    font-size: 18px;
+    padding: 12px
+}
+
 .top {
     background-color: #1B263B;
     color: #E0E1DD;
@@ -42,4 +47,37 @@ body {
     padding: 24px;
     margin: 4px auto;
     display: block;
+}
+
+.image-container {
+    width: 500px;
+    margin: 24px auto;
+}
+
+.desc-ing {
+    width: 1000px;
+    margin: auto;
+}
+
+.desc {
+    width: 490px;
+    margin: 32px auto;
+}
+
+.ing {
+    width: 490px;
+    margin: 32px auto;
+}
+
+.subtitle {
+    font-size: 30px;
+    text-align: center;
+}
+
+.steps-container {
+    background-color: #415A77;
+    color: #E0E1DD;
+    width: 600px;
+    padding: 16px;
+    margin: 36px auto;
 }
